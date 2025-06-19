@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='hilbertlib',
-    version='6.17.25',
-    description='An all-in-one Python library for bots, math, and more',
+    version='6.19.25',
+    description='HilbertLib is a Python library providing modular tools for bot development, mathematical operations, web utilities, color manipulation, and database management.',
     author='Synthfax',
     author_email='synthfax@gmail.com',
     packages=find_packages(),
