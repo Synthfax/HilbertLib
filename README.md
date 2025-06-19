@@ -43,7 +43,7 @@ pip install hilbertlib
 
 ---  
 ## 📖 Usage Examples  
-See the **[examples folder](./examples/)** for detailed usage.  
+See the **[examples folder](https://github.com/Synthfax/HilbertLib/tree/main/examples)** for detailed usage.  
 
 ### Basic Math Example  
 ```python  
@@ -69,7 +69,7 @@ print(data)
 **MIT License**  
 Copyright (c) 2025 **Synthfax**  
 
-> 📌 See **[LICENSE](./LICENSE)** for full terms.  
+> 📌 See **[LICENSE](https://github.com/Synthfax/HilbertLib/blob/main/LICENSE)** for full terms.  
 
 ---  
 ## 🚀 Contributing  
