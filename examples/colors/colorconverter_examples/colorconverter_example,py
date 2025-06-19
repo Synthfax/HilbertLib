@@ -1,0 +1,13 @@
+from hilbertlib.colors.colorconverter import ColorConverter
+
+# RGB to HEX
+print(ColorConverter.convert((128, 0, 128), 'rgb', 'hex'))  # → #800080
+
+# HEX to CMYK
+print(ColorConverter.convert("#FFAA00", 'hex', 'cmyk'))  # → (0, 33, 100, 0)
+
+# HSL to HSV
+print(ColorConverter.convert((200, 50, 60), 'hsl', 'hsv'))
+
+# CMYK to RGB
+print(ColorConverter.convert((0, 100, 0, 0), 'cmyk', 'rgb'))  # → (255, 0, 255)
