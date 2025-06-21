@@ -60,7 +60,7 @@ print(v1.dot(v2))  # Dot product
 from hilbertlib.web_utils.web_scraper import WebScraper  
 
 scraper = WebScraper()  
-data = scraper.scrape("https://example.com")  
+data = scraper.fetch_html("https://example.com")  
 print(data)  
 ```  
 
